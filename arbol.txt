@@ -1,0 +1,3 @@
+¿Es un animal? ¿Tiene cuatro patas? Perro   Vive debajo del agua? Gato   Pez   ¿Es un vehículo? Avión   Barco  
+ Perro  ¿Tiene cuatro patas?  Gato  Vive debajo del agua?  Pez  ¿Es un animal?  Avión  ¿Es un vehículo?  Barco 
+  Perro   Gato   Pez Vive debajo del agua? ¿Tiene cuatro patas?   Avión   Barco ¿Es un vehículo? ¿Es un animal?
